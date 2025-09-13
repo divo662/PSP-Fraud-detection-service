@@ -268,9 +268,7 @@ test(anomaly): add geographic anomaly test cases
 
 ## Getting Help
 
-- Discussions: [GitHub Discussions](https://github.com/yourusername/fraud-detection-service/discussions)
-- Issues: [GitHub Issues](https://github.com/yourusername/fraud-detection-service/issues)
-- Email: maintainers@yourcompany.com
+- Email: divzeh001@gmail.com
 
 ## Recognition
 
